@@ -1,0 +1,15 @@
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\Kudashov_Kursach.exe
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\Kudashov_Kursach.deps.json
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\Kudashov_Kursach.runtimeconfig.json
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\Kudashov_Kursach.dll
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\ref\Kudashov_Kursach.dll
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\bin\Debug\net6.0\Kudashov_Kursach.pdb
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.csproj.AssemblyReference.cache
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.AssemblyInfoInputs.cache
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.AssemblyInfo.cs
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.csproj.CoreCompileInputs.cache
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.dll
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\ref\Kudashov_Kursach.dll
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.pdb
+D:\Visual Studio folder\Kudashov_Kursach\Kudashov_Kursach\obj\Debug\net6.0\Kudashov_Kursach.genruntimeconfig.cache
